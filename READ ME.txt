@@ -1,0 +1,30 @@
+hello and welcome to the pendrive storing all of megan's computing project (don't worry I've backed it up)
+
+a guide to finding your way around:
+- looking for the writeup/all the documents?
+ 	Check the 'Advanced Higher Computing Project.doc' for a version of the writeup
+	with additional comments to show the iterations the documents went through!
+
+- looking for the best part of the project, aka the record of progress
+	Look for the internet shortcut, it will take you to the blog I have been keeping. 
+	You must have glow to access it and you also must be a permitted user to read it,
+	any difficulties/questions please just ask. 
+
+- looking for a good time?
+	you've come to the wrong place! JOKING, try playing the pirate game, it requires
+	three players, and you have to have Python and PyGame installed on your computer,
+	please also see the User Guide at the back of the documents for more details!
+
+- a little warning about input validation
+	as daniel and lewis were quick to point out, my input validation is a little bit
+	'fragile' shall we say? it doesn't really like anything that isn't a number, it is
+	fine for validation between ranges but try not to enter an un-necessary space bar etc
+	. If the game does crash, like stated in the User Guide, you will have to restart everthing	
+	very sorry.
+
+Enjoy marking !!!
+
+ps. I don't have a very good history with usb sticks, please try not to lose or corrupt, cause 
+honestly im running out of sticks that I haven't broken or lost.
+ 
+
